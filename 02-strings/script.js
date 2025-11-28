@@ -27,8 +27,8 @@ const name = 'Mattia';
 console.log(name);
 
 //2. tipi primitivi
-const number = '13';
+const number = 13;
 const text = 'é il mio numero fortunato';
-const bool = 'true';
+const bool = true;
 const numTexBoo = `${number} ${text} ${bool}`
 console.log(numTexBoo)
